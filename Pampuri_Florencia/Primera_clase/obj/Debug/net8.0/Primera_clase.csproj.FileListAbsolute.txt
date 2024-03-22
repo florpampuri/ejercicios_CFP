@@ -1,0 +1,15 @@
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\bin\Debug\net8.0\Primera_clase.exe
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\bin\Debug\net8.0\Primera_clase.deps.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\bin\Debug\net8.0\Primera_clase.runtimeconfig.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\bin\Debug\net8.0\Primera_clase.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\bin\Debug\net8.0\Primera_clase.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.AssemblyInfoInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.AssemblyInfo.cs
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.sourcelink.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\refint\Primera_clase.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\Primera_clase.genruntimeconfig.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Primera_clase\obj\Debug\net8.0\ref\Primera_clase.dll
