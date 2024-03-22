@@ -15,31 +15,31 @@
             
             //Segundo ejercicio de prueba 
             
-            string nombre;
+            string nombre2;
             string apellido;
             Console.Write("Ingrese su nombre: ");
-            nombre = Console.ReadLine();
+            nombre2 = Console.ReadLine();
             Console.Write("Ingrese su apellido: ");
             apellido = Console.ReadLine();
 
-            Console.WriteLine("Bienvenid@ " + nombre +" "+ apellido);
+            Console.WriteLine("Bienvenid@ " + nombre2 +" "+ apellido);
             
             
             //Tercer ejercicio de prueba 
 
-            string nombre3;
+            string nombre;
             string edadTexto;
             int edad;
 
             Console.Write("Ingrese su nombre: ");
-            nombre3 = Console.ReadLine();
+            nombre = Console.ReadLine();
             Console.Write("Ingrese su edad: ");
             edadTexto = Console.ReadLine();
             edad = int.Parse(edadTexto);
 
             //3 formas de concatenar
-            Console.WriteLine("Bienvenid@ " + nombre3 + "! Usted tiene " + edad + " años.");
-            Console.WriteLine("Bienvenid@ {0}! Usted tiene {1} años.", nombre3, edad);
+            Console.WriteLine("Bienvenid@ " + nombre + "! Usted tiene " + edad + " años.");
+            Console.WriteLine("Bienvenid@ {0}! Usted tiene {1} años.", nombre, edad);
             Console.WriteLine($"Bienvenid@ {nombre}! Usted tiene {edad} años.");
 
 

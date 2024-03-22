@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F25D9502-C4CB-4D97-8D11-28B7194D0099}|Segunda_clase\\Segunda_clase.csproj|d:\\cursos\\programacion orientada a objetos (poo)\\ejercicios_cfp\\pampuri_florencia\\segunda_clase\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D9502-C4CB-4D97-8D11-28B7194D0099}|Segunda_clase\\Segunda_clase.csproj|solutionrelative:segunda_clase\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2166F34-D32B-460E-9051-5285F86E251B}|Primera_clase\\Primera_clase.csproj|d:\\cursos\\programacion orientada a objetos (poo)\\ejercicios_cfp\\pampuri_florencia\\primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2166F34-D32B-460E-9051-5285F86E251B}|Primera_clase\\Primera_clase.csproj|solutionrelative:primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Condicionales.cs",
+              "DocumentMoniker": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Segunda_clase\\Condicionales.cs",
+              "RelativeDocumentMoniker": "Segunda_clase\\Condicionales.cs",
+              "ToolTip": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Segunda_clase\\Condicionales.cs",
+              "RelativeToolTip": "Segunda_clase\\Condicionales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:27:58.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Primera_clase\\Program.cs",
               "RelativeDocumentMoniker": "Primera_clase\\Program.cs",
               "ToolTip": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Primera_clase\\Program.cs",
               "RelativeToolTip": "Primera_clase\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T17:59:00.675Z",
               "EditorCaption": ""
