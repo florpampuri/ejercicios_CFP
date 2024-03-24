@@ -1,0 +1,15 @@
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\bin\Debug\net8.0\Ejercicios_listos.exe
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\bin\Debug\net8.0\Ejercicios_listos.deps.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\bin\Debug\net8.0\Ejercicios_listos.runtimeconfig.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\bin\Debug\net8.0\Ejercicios_listos.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\bin\Debug\net8.0\Ejercicios_listos.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.AssemblyInfoInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.AssemblyInfo.cs
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.sourcelink.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\refint\Ejercicios_listos.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\Ejercicios_listos.genruntimeconfig.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Ejercicios_listos\obj\Debug\net8.0\ref\Ejercicios_listos.dll
