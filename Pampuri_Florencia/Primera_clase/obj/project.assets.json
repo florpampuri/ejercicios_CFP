@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Primera_clase\\Primera_clase.csproj",
-      "projectName": "Primera_clase",
-      "projectPath": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Primera_clase\\Primera_clase.csproj",
+      "projectUniqueName": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Primera_clase\\Primera_clase 18-03.csproj",
+      "projectName": "Primera_clase 18-03",
+      "projectPath": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Primera_clase\\Primera_clase 18-03.csproj",
       "packagesPath": "C:\\Users\\Florencia\\.nuget\\packages\\",
       "outputPath": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Primera_clase\\obj\\",
       "projectStyle": "PackageReference",

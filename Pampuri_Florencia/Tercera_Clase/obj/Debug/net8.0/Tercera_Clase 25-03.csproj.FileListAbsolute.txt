@@ -1,0 +1,15 @@
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\bin\Debug\net8.0\Tercera_Clase 25-03.exe
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\bin\Debug\net8.0\Tercera_Clase 25-03.deps.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\bin\Debug\net8.0\Tercera_Clase 25-03.runtimeconfig.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\bin\Debug\net8.0\Tercera_Clase 25-03.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\bin\Debug\net8.0\Tercera_Clase 25-03.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.AssemblyInfoInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.AssemblyInfo.cs
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.sourcelink.json
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\refint\Tercera_Clase 25-03.dll
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.pdb
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\Tercera_Clase 25-03.genruntimeconfig.cache
+D:\Cursos\Programacion Orientada a Objetos (POO)\ejercicios_CFP\Pampuri_Florencia\Tercera_Clase\obj\Debug\net8.0\ref\Tercera_Clase 25-03.dll

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{768FD35C-777C-4F05-B32E-215B04E13751}|Ejercicios_listos\\Ejercicios_listos.csproj|d:\\cursos\\programacion orientada a objetos (poo)\\ejercicios_cfp\\pampuri_florencia\\ejercicios_listos\\ejercicios_listos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{768FD35C-777C-4F05-B32E-215B04E13751}|Ejercicios_listos\\Ejercicios_listos.csproj|solutionrelative:ejercicios_listos\\ejercicios_listos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{72268EE8-AD3B-41F5-A4E6-8DBCE6EF0D1D}|Tercera_Clase\\Tercera_Clase.csproj|d:\\cursos\\programacion orientada a objetos (poo)\\ejercicios_cfp\\pampuri_florencia\\tercera_clase\\bucles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72268EE8-AD3B-41F5-A4E6-8DBCE6EF0D1D}|Tercera_Clase\\Tercera_Clase.csproj|solutionrelative:tercera_clase\\bucles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicios_listos",
-              "DocumentMoniker": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Ejercicios_listos\\Ejercicios_listos.csproj",
-              "RelativeDocumentMoniker": "Ejercicios_listos\\Ejercicios_listos.csproj",
-              "ToolTip": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Ejercicios_listos\\Ejercicios_listos.csproj",
-              "RelativeToolTip": "Ejercicios_listos\\Ejercicios_listos.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T22:22:12.059Z",
+              "Title": "Bucles.cs",
+              "DocumentMoniker": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Tercera_Clase\\Bucles.cs",
+              "RelativeDocumentMoniker": "Tercera_Clase\\Bucles.cs",
+              "ToolTip": "D:\\Cursos\\Programacion Orientada a Objetos (POO)\\ejercicios_CFP\\Pampuri_Florencia\\Tercera_Clase\\Bucles.cs",
+              "RelativeToolTip": "Tercera_Clase\\Bucles.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:08:56.623Z",
               "EditorCaption": ""
             }
           ]
